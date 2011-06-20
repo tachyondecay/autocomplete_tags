@@ -9,6 +9,8 @@ Replaces the default tag list interface in Symphony's backend with a [jQuery Aut
 
 ## Installation
 
+You can always install the latest version through git: `git clone git://github.com/tachyondecay/autocomplete_tags.git`
+
 - Make sure that the extension is in a folder named `autocomplete_tags`. Upload this to your Symphony `extensions` folder.
 - Enable the extension from the **Extensions** page in the Symphony backend.
 
