@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="autocomplete_tags" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Autocomplete Tags</name>
+	<description>Replace the tag list suggestions with an autocomplete widget.</description>
+	<repo type="github">https://github.com/tachyondecay/autocomplete_tags</repo>
+	<url type="discuss">http://symphony-cms.com/discuss/thread/72263/</url>
+	<types>
+		<type>Interface</type>
+	</types>
+	<authors>
+		<author>
+			<name github="tachyondecay" symphony="tachyondecay" twitter="tachyondecay">Ben Babcock</name>
+			<website>http://tachyondecay.net/</website>
+		</author>
+	</authors>
+	<media>
+		<item type="image" url="http://symphonyextensions.com/tachyondecay/autocomplete_tags/media/autocomplete_tags.png">Autocomplete Tags: Replace the tag list suggestions with an autocomplete widget.</item>
+	</media>
+	<releases>
+		<release version="0.1" date="2011-06-20" min="2.1.0" />
+	</releases>
+</extension>
