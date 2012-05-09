@@ -22,6 +22,7 @@
 			- Remove `about()` method in `extension.driver.php`.
 			- Report correct compatibility ranges in `extension.meta.xml`
 		]]>
+		</release>
 		<release version="0.1" date="2011-06-20" min="2.1" max="2.2.x" />
 	</releases>
 </extension>
