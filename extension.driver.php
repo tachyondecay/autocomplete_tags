@@ -2,20 +2,6 @@
 
 	Class Extension_Autocomplete_Tags extends Extension {
 
-		public function about() {
-			return array(
-				'name' => 'Autocomplete Tags',
-				'version' => '0.1',
-				'release-date' => '2011-06-20',
-				'author' => array(
-					'name' => 'Ben Babcock',
-					'website' => 'http://tachyondecay.net/',
-					'email' => 'ben@tachyondecay.net',
-				),
-				'description' => 'Replaces the default tag list suggestions with a jQuery autocomplete widget.'
-			);
-		}
-
 		public function getSubscribedDelegates() {
 			return array(
 				array(

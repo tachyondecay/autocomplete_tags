@@ -2,9 +2,9 @@
 
 Replaces the default tag list interface in Symphony's backend with a [jQuery Autocomplete widget](http://jqueryui.com/demos/autocomplete/). This is also compatible with Craig Zheng's [enhanced tag list](https://github.com/czheng/enhancedtaglist/) field provided you use a comma as the delimiter.
 
-- Version: 0.1
+- Version: 1.0
 - Author: Ben Babcock <ben@tachyondecay.net>
-- Updated: June 20, 2011
+- Updated: May 9, 2012
 - GitHub Repository: https://github.com/tachyondecay/autocomplete_tags
 
 ## Installation
