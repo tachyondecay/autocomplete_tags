@@ -17,7 +17,11 @@
 		<item type="image" url="http://symphonyextensions.com/tachyondecay/autocomplete_tags/media/autocomplete_tags.png">Autocomplete Tags: Replace the tag list suggestions with an autocomplete widget.</item>
 	</media>
 	<releases>
-		<release version="1.0" date="2012-05-09" min="2.3">
+		<release version="1.0.1" date="2012-05-09" min="2.3" max="2.5.x">
+		<![CDATA[
+			- Update jQuery UI library to make the styling compatible with Symphony 2.4
+		]]>
+		</release>		<release version="1.0" date="2012-05-09" min="2.3">
 		<![CDATA[
 			- Remove `about()` method in `extension.driver.php`.
 			- Report correct compatibility ranges in `extension.meta.xml`
